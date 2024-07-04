@@ -1,2 +1,2 @@
-# Remote
-Remote for Diesis Player
+# Remote Diesis Audio
+Remote for Diesis Player Neptune, Tevere
